@@ -1,0 +1,6 @@
+{
+  "name": "Карыздар - Цехтердин карыз эсеби",
+  "description": "Тигүү цехтеринин жумушчуларынын карыздарын жана төлөмдөрүн эсепке алуу системасы",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
